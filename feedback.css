@@ -75,6 +75,8 @@ body {
 
 .photo-main-page {
     align-content: center;
-    margin-left: 30px;
-    margin-right: 10px;
-}
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0;
+  }
+
