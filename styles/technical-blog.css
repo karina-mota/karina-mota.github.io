@@ -83,9 +83,9 @@ body {
 .classes-ids {
     text-align: left;
     padding: 10 300 10 300;
-    width: 1200px;
-    margin-left: 350px;
-    margin-right: 200px;
+    width: 1000px;
+    margin-left: 150px;
+    margin-right: 500px;
 }
 
 .example {
@@ -94,7 +94,7 @@ body {
   font-weight: bolder;
   background-color: grey;
   margin-left: 400px;
-  margin-right: 400px;
+  margin-right: 150px;
   margin-bottom: 50px;
 }
 
@@ -103,8 +103,7 @@ body {
   margin-left: 300px;
   background: grey;
   border: 0;
-  margin-right: 580px;
+  margin-right: 380px;
   padding: 5px 15px 5px 10px;
 
 }
-
