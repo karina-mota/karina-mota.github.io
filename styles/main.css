@@ -78,3 +78,18 @@ body {
     margin-left: 30px;
     margin-right: 10px;
 }
+
+.classes-ids {
+  text-align: left;
+  padding: 10 300 10 300;
+  width: 1000px;
+  margin-left: 150px;
+  margin-right: 500px;
+}
+
+.photo-blog-page {
+  align-content: center;
+  margin-left: 30px;
+  margin-right: 10px;
+  border-width: 20px;
+  } 
