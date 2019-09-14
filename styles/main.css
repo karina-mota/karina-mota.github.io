@@ -93,3 +93,20 @@ body {
   margin-right: 10px;
   border-width: 20px;
   } 
+
+.question {
+  text-align: center;
+  padding: 10 300 10 300;
+  width: 1000px;
+  margin-left: 150px;
+  margin-right: 500px;
+  background-color: grey;
+}
+
+.answer {
+  text-align: center;
+  padding: 10 300 10 300;
+  width: 1000px;
+  margin-left: 150px;
+  margin-right: 500px;
+}
